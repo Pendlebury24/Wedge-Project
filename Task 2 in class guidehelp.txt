@@ -1,0 +1,24 @@
+Task 2 in class guide/help
+
+what people do, won't have all owners, won't have all owners transactions in sample
+Select *
+FROM Transactions*
+Order by rand()
+limit 100000
+
+Can do
+
+WITH random_sample AS (
+
+SELECT Distinct(card_no)
+FROM transactions
+ORder by rand()
+Limit 10
+)
+ 
+Select *
+from transaction
+where card_no in (select card_no from random_sample)
+
+can do 
+pull all owners into file use python with seed to pull card numbers
