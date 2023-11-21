@@ -3,7 +3,7 @@
 
 ## Wedge Project
 
-<!-- Any general commentary you'd like to say about the project --> 
+<!-- Any general commentary you'd like to say about the project. --> 
 
 I'm going for a B so there's no data cleaning. 
 Task 2 and 3 are fully done. Task 1 I was able to get the data in GBQ but am struggling with specifing the data types. So there are two files. One that works and uploads the data but has some issues in GBQ and one that is a mess. I will keep trying to get it to work.
