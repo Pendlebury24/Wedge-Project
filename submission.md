@@ -14,7 +14,6 @@ Task 2 and 3 are fully done. Task 1 I was able to get the data in GBQ but am str
 * Files for this task: 
 <!--  Task 1 Baseline  --> 
 
-Loads all data into GBQ data set. letting GBQ decide the column data type
 
 <!--  Task 1 upload  --> 
 `Task 1 baseline.ipynb`: 
@@ -86,6 +85,6 @@ When calculating relative difference, use the formula
 ## Reflections
 
 <!-- I'd love to get 100-200 words on your experience doing the Wedge Project -->
-I'm going to be honest and say my biggest take away from the wedge project is that I've probably been relying on chatgpt to much for python. It has been super helpfull and it's helped me a lot but I've leaned to heavily into it. 
+I'm going to be honest and say my biggest takeaway from the wedge project is that I've probably been relying on chatgpt too much for Python. It has been super helpful, and it's helped me a lot, but I've leaned too heavily into it. 
 
-Besides the struggling with some of it overall I thought it was a great project. It was nice to work through so many areas all in one assignment instead of partially over many. Even with chatgpt it was still a difficult in areas. 
+Besides struggling with some of it overall, I thought it was a great project. It was nice to work through so many areas all in one assignment instead of partially over many. Even with chatgpt it was still difficult in some areas. 
