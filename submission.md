@@ -16,14 +16,11 @@ Task 2 and 3 are fully done. Task 1 I was able to get the data in GBQ but am str
 
 Loads all data into GBQ data set. letting GBQ decide the column data type
 
-`Task 1 baseline upload.ipynb`: 
-Description of what this file does.
-
 <!--  Task 1 upload  --> 
-
-Loads the data into GBQ trying to specify the data types I could not get this to work before the deadline. 
+`Task 1 baseline.ipynb`: 
+Loads all data into GBQ data set. letting GBQ decide the column data type
 `Task 1 upload.ipynb`: 
-
+Loads the data into GBQ trying to specify the data types I could not get this to work before the deadline. Running into a byte error during the upload
 ### Task 2
 
 * Files for this task: 
