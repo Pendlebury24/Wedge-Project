@@ -33,3 +33,7 @@ Queries 2 and 3 are incorrect. In Query 1, we have this in our `WHERE` clause:
 Reflect on why we have that. And notice how you are reporting zero sales for every year and month.
 
 When you get this corrected, just send me a teams message and we'll sign it off. 
+
+### Task 3: Revised
+
+Nice work, this is _done_ done. 
